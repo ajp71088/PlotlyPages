@@ -210,7 +210,7 @@ Here's the final HTML code:
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="charts.js"></script>
+  <script src="static/js/charts.js"></script>
   <!-- <script src="plots.js"></script> -->
 
 </body>
